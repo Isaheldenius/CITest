@@ -10,7 +10,7 @@ public class User {
     }
 
     public String getUserName() {
-        return "Hej";
+        return userName;
     }
 
     public String getPassword() {
